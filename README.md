@@ -1,24 +1,33 @@
-Employee Performance Tracker
+ghouse:85
+mohamed:92
+moahmed ghouse:78
+ghouse mohamed:95
 
-A Java-based console application that manages and analyzes employee performance data using arrays and core Java concepts.
+total of sum:350
+total of average:87.0
 
-Features:
-   • Employee performance tracking
-   • Arrays for data storage
-   • For Loop & For-Each Loop
-   • Calculate Sum and Average
-   • Find Maximum and Minimum scores
-   • Count Even and Odd performance scores
-   • Search Employee by score
-   • Reverse Rankings
-   • Identify High Performers
-   • Performance Category Classification
-   • Find Second Highest Performance Score
-Technologies Used
-     • Java
-     • Arrays
-     • Visual Studio Code (VS Code)
-     • JDK (Java Development Kit)
-     • Learning Outcomes
+topempolyees:ghouse mohamed
+topscores:95
 
-This project demonstrates a strong understanding of Java array operations, looping techniques, data analysis, searching, and basic problem-solving skills.
+lowempolyee:moahmed ghouse
+lowscore:78
+
+element is found
+name:ghouse
+score:85
+
+reverse ranking
+ghouse mohamed:95
+moahmed ghouse:78
+mohamed:92
+ghouse:85
+
+exceellent empolyees:2
+good empolyees:2
+average empolyees:0
+
+Highest Score: 95
+Second Highest Score: 92
+
+lowest Score: 95
+Second lowest Score: 92
